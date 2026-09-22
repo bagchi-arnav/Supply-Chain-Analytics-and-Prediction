@@ -120,8 +120,8 @@ Supply-Chain-Delivery-Analytics/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd Supply-Chain-Delivery-Analytics
+git clone https://github.com/bagchi-arnav/Supply-Chain-Analytics-and-Prediction.git
+cd Supply-Chain-Analytics-and-Prediction
 ```
 
 ### 2. Install the required dependencies
