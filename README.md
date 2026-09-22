@@ -106,7 +106,6 @@ Supply-Chain-Delivery-Analytics/
 ├── predictor.py
 ├── test_predictor.py
 │
-├── late_delivery_model.pkl
 ├── frequency_maps.pkl
 ├── feature_columns.pkl
 │
