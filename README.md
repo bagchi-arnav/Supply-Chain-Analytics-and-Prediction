@@ -5,6 +5,8 @@ This project is an end-to-end data analytics and machine learning project focuse
 
 The project covers data cleaning, exploratory data analysis, business and root-cause analysis, feature engineering, machine learning, model evaluation, and deployment of a late-delivery prediction application using Streamlit.
 
+**Dataset:** [SupplyChainDataset.csv](https://drive.google.com/file/d/1tCG3E_KeuFwxn5Roobaz4FVBR5dQWEMr/view?usp=sharing)
+
 ## Business Problem
 Late deliveries can affect customer satisfaction, operational efficiency, and overall supply chain performance. The objective of this project is to analyze historical order and shipment data to identify the major factors associated with delivery delays and develop a model that can predict whether a new order is likely to be delivered late.
 
